@@ -1,12 +1,11 @@
 # My Talks
 
-Hi!  
-I talk sometimes.  
+Hi!  I talk sometimes.  
 
 This repository hosts most (if not all) of the talks (conferences, presentations, podcasts, etc.) that I've given or been a guest on.  
 
 
-## Up Next
+## Up Next..
 *No upcoming talks scheduled at the moment. Check back soon!*
 
 ## Past Talks
